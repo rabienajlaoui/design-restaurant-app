@@ -1,0 +1,15 @@
+As a visitor I need to:
+-Register
+
+
+As a registered user I need to:
+- Add/Modify/Delete/consult Post
+- Like/Dislike Post
+- Follow/ unfollow user
+- Consult all the users and their profil
+- Send/Ignore/Accept request 
+
+
+As an admin I need to:
+ban User
+ban Post
